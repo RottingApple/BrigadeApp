@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Brigade.EU.iml" filepath="$PROJECT_DIR$/Brigade.EU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brigada.iml" filepath="$PROJECT_DIR$/Brigada.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backendless/backendless.iml" filepath="$PROJECT_DIR$/backendless/backendless.iml" />
     </modules>
   </component>
 </project>

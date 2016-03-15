@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Brigada.EU</string>
     <string name="title_activity_main" >Brigade.EU</string>
+    <string name="APP_ID">1D36BED1-A047-2C68-FFB9-1CFA9BB85B00</string>
+    <string name="Secret_Key">96D5EAFD-9D8C-D801-FF1B-026248765000</string>
+    <string name="appVersion">v1</string>
 </resources>
